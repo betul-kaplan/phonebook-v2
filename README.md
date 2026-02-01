@@ -106,7 +106,7 @@ thousand                         Warning -> 'Invalid input: Phone number should 
   
     - Instance type can be configured as `db.t3.micro`
 
-    - Database engine can be `MySQL` with version of `8.0.19`.
+    - Database engine can be `MySQL` with version of `8.0.37`.
 
   - Phonebook Application Website URL should be given as output by Terraform, after the resources created.
 
